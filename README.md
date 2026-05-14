@@ -14,12 +14,12 @@ This system enables invisible tagging of 3D-printed objects by embedding AprilTa
 
 ## 📊 Image Processing Pipeline
 
-![Processing Pipeline](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/processing_pipeline.jpg)
+![Processing Pipeline](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/main/processing_pipeline.jpg)
 *Image processing steps: Camera On → Grayscale → CLAHE → Binary Threshold → Erosion*
 
 ## 🔬 How It Works: Invisible to Visible
 
-![Embedded Tag Comparison](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/embedded_tag_comparison.jpg)
+![Embedded Tag Comparison](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/main/embedded_tag_comparison.jpg)
 *Left: 3D-printed object under normal light (tag invisible) | Right: Same object under IR camera (tag clearly visible)*
 
 The system uses:
@@ -30,7 +30,7 @@ The system uses:
 
 ## 📈 Detection Performance
 
-![Detection Results](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/detection_results_shell_thickness.jpg)
+![Detection Results](https://raw.githubusercontent.com/folk2929/Infrared-Tags-Project/main/detection_results_shell_thickness.jpg)
 *Detection rate vs shell thickness: Optimal detection at 0-1.5mm shell thickness*
 
 Key findings:
